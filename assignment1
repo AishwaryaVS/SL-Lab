@@ -1,0 +1,35 @@
+list1=['a','b','c','d']
+length=len(list1)
+print("Length of first list",length)
+print(list1)
+list2=['s','t',['x','y','z'],'u','v']
+print("splicing of list")
+print(list2[2:4])
+print(list1[:])
+list1[2]='p'
+print("replacing 2nd element",list1)
+print("appending two lists")
+print(list1+list2)
+new_list=list(list1)
+new_list2=list2.copy()
+print("copying lists")
+print(new_list)
+print(new_list2)
+x=0
+print("splitting the list")
+for i in range (x,length,2):
+	x=i
+	print(list1[x:x+2])
+
+
+
+
+
+
+//Question number 2
+tup=("1","2","3")
+print(tup)
+print("first element",tup[0])
+print("Converting the tuple into a list")
+list1=list(tup)
+print(list1)
