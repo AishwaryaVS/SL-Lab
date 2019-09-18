@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<body>
+<p id="demo"></p>
+<script>
+var pat1,pat2,i,j,x="";
+pat1={
+	"name":"A",
+	"DName":"harish",
+	"diseases":[
+	{"name":"osteoporosis","symptoms":["weakness","loss of weight"]},
+	{"name":"eczema","symptoms":["itchiness","rashes"]}
+	]
+}
+pat2={
+	"name":"B",
+	"DName":"girish",
+	"diseases":[
+	{"name":"viral fever","symptoms":["weakness","rise in body temperture"]},
+	{"name":"anemia","symptoms":["fatigue"]}
+	]
+}
+	for (i in pat1.diseases) {
+	x+="<h2>"+pat1.diseases[i].name+"</h2>";
+	for(j in pat1.diseases[i].symptoms) {
+	x+=pat1.diseases[i].symptoms[j]+"<br>";
+	}
+}
+document.getElementById("demo").innerHTML=x;
+</script>
+</body>
+</html>
