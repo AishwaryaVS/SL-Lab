@@ -47,6 +47,9 @@
 
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(12).png)
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(13).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(26).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(27).png)
+
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(20).png)
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(21).png)
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(23).png)
