@@ -1,0 +1,89 @@
+<html>
+<body>
+<table>
+<tr>
+<th>List of cars</th>
+</tr>
+</table>
+
+
+<p onmouseover="show()">Ford</p>
+<p onmouseover="show1()">Honda</p>
+<p onmouseover="show2()">Maruti</p>
+<p onmouseover="show4()">tata tiago</p>
+<p onmouseover="show5()">bugatti</p>
+<p onmouseover="show6()">ferrari</p>
+
+
+<table id= "tab" hidden border="1">
+<tr>
+<th>Name</th>
+<th>Price</th>
+<th>Car</th>
+</tr>
+
+<tr>
+<td id="n1"></td>
+<td id="p1"></td>
+<td id="c1"></td>
+</tr>
+</table>
+
+
+<!--JSON can also be imported-->
+<script type="text/javascript">
+y = '{"car1":{"name":"Ford","price":"5L","image":"ford"},"car2":{"name":"honda","price":"15L","image":"honda"},"car3":{"name":"Maruti","price":"15L","image":"maruti"},"car4":{"name":"tata tiago","price":"6L","image":"tata_tiagonrg"},"car5":{"name":"bugatti","price":"1400L","image":"bugatti_divo"},"car6":{"name":"ferrari","price":"420L","image":"ferrari_gtc4lusso"}}'
+
+function show()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car1.name;
+document.getElementById("p1").innerHTML=x.car1.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car1.image+'.jpeg">';
+}
+
+function show1()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car2.name
+document.getElementById("p1").innerHTML=x.car2.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car2.image+'.jpeg">';
+}
+
+function show2()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car3.name
+document.getElementById("p1").innerHTML=x.car3.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car3.image+'.jpeg">';
+}
+function show4()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car4.name
+document.getElementById("p1").innerHTML=x.car4.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car4.image+'.jpg">';
+}
+function show5()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car5.name
+document.getElementById("p1").innerHTML=x.car5.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car5.image+'.jpg">';
+}
+function show6()
+{
+var x=JSON.parse(y);
+document.getElementById("tab").removeAttribute("hidden");
+document.getElementById("n1").innerHTML=x.car6.name
+document.getElementById("p1").innerHTML=x.car6.price;
+document.getElementById("c1").innerHTML='<img src="'+x.car6.image+'.jpg">';
+}
+</script>
+</body>
+</html>
