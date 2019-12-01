@@ -44,8 +44,6 @@
     2. Shopping Cart app
 7. Few More...
 
-!(C:\Users\shreya v sheelvant\Pictures\Screenshots\Screenshot (10).png)
-
 
 
 
