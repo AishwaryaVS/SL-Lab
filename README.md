@@ -2,9 +2,9 @@
 
 ## (under Department of ISE, Ramaiah Institute of Technology)
 
-## USN : 1MS17IS030
+## USN : 1MS17IS010
 
-## Name : Avani Vaishnav
+## Name : Aishwarya V Sheelvant
 
 ## Section : 5A
 
