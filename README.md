@@ -47,11 +47,11 @@
 
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(12).png)
 ![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(13).png)
-![alt text](Screenshots/Screenshot (25).png)
-![alt text](Screenshots/Screenshot (23).png)
-![alt text](Screenshots/Screenshot (24).png)
-![alt text](Screenshots/Screenshot (21).png)
-![alt text](Screenshots/Screenshot (20).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(20).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(21).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(23).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(24).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(25).png)
 
 
 
