@@ -43,8 +43,11 @@
     1. ATM app
     2. Shopping Cart app
 7. Few More...
-!(https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(12).png)
 
+
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(12).png)
+![alt text](https://github.com/AishwaryaVS/SL-Lab/blob/master/Screenshots/Screenshot%20(13).png)
+![alt text](Screenshots/colours.png)
 
 
 
